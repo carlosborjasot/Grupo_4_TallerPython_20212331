@@ -1,1 +1,6 @@
-# Grupo_4_TallerPython_20212331
+Esta es una prueba para un taller de Python
+##Tarea 1
+Este repositorio contiene
+- Tarea 1
+- Tarea 2
+- Tarea 3
